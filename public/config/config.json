@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x8e49498f390fA7e2fF9406e0055739950eE87a84",
+  "SCAN_LINK": "https://etherscan.io/token/0x8e49498f390fA7e2fF9406e0055739950eE87a84",
+  "NETWORK": {
+    "NAME": "ETHEREUM",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "DANKBOT",
+  "SYMBOL": "DB",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 90000000000000000,
+  "DISPLAY_COST": 0.08,
+  "DISPLAY_COST_1": 0.07,
+  "GAS_LIMIT": 230000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/glitched-nouns",
+  "SHOW_BACKGROUND": true
+}
